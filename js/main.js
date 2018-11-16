@@ -8,7 +8,7 @@
 '<div class="info">'+
 '<ul>'+
 '<li><b>'+user+',</b> generated now:</li>'+
-'<li><img class="item-gen" src="img/vBucks.png" alt="" />V-bucks: <span class="bucks-color">'+vBucksRand+'</span> </li>'+
+'<li><img class="item-gen" src="https://cdn.staticaly.com/gh/cintaulia/furnitelp/65791529/vBucks.png" alt="" />V-bucks: <span class="bucks-color">'+vBucksRand+'</span> </li>'+
 '</ul>'+
 '</div>'+
 '</div>').fadeIn();}
